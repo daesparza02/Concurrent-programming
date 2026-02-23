@@ -40,5 +40,5 @@ Este proyecto está bajo la Licencia **MIT** - mirar el archivo [LICENSE](LICENS
 
 ---
 **Autores:**
-* [Luis Orofino Álvarez]
-* [Daniel Casquero Palencia]
+* [David Esparza Sainz]
+* [Jorge Arboleya Carrio]
