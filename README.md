@@ -2,7 +2,7 @@
 
 Este repositorio contiene la implementación de una arquitectura Cliente-Servidor diseñada para la asignatura de **Programación Concurrente**. El objetivo principal del proyecto es gestionar la comunicación y el acceso a recursos compartidos entre múltiples clientes simultáneos, aplicando diversas estrategias de sincronización y exclusión mutua de forma manual y mediante librerías de Java.
 
-Es un proyecto hecho en parejas, con mi compañero Daniel Casquero Palencia.
+Es un proyecto hecho en parejas, con mi compañero Jorge Arboleya Carrio.
 
 ## Descripción del Proyecto
 
